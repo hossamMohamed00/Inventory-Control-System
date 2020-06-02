@@ -1,0 +1,2 @@
+To Run This Project 
+please open the jar file which is located in Inventory Control Project folder
